@@ -1,0 +1,23 @@
+Here is my codes in order
+
+cd Desktop 
+
+git clone https://github.com/melihemre2001/GitHub-Homework
+
+cd GitHub-Homework
+
+touch homework.txt
+
+git add homework
+
+git commit -m "Commit Task"
+
+git push origin main
+
+git branch feature-branch
+
+git add homework.txt
+
+I clicked merge pull request on website for merge feature-branch with main branch 
+
+we collaborated with Mert Göksu to complete collaboration task
